@@ -18,4 +18,4 @@ git clone https://github.com/GE160/random-color-generator.git
 
 2. Open the project folder.
 
-3. Open `index.html` in your browser.
+3. Open `index.html` in your browsers.
