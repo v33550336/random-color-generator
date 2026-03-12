@@ -1,6 +1,6 @@
 # 🎨 Random Color Generator
 
-A simple and elegant web application that generates random color with a valid HEX code! Perfect for designers, developers, and anyone who needs some colorful inspiration!
+A simple and elegant web application that generates random colors with a valid HEX code! Perfect for designers, developers, and anyone who needs some colorful inspiration!
 
 ## ✨ Features
 
